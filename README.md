@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! 🥰
+
+I'm a final year undergraduate student at the University of Michigan doing research in 💬 natural language processing 💬!
+- 🔭 I’m currently working on projects related to 🧑‍🤝‍🧑 computational sociolinguistics 🧑‍🤝‍🧑 and 🤖 situated dialogue 🤖!
+- 😄 Pronouns: he/him/his
 
 <!--
 **skywang329/skywang329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
