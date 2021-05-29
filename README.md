@@ -1,8 +1,8 @@
-### Hey there! 🥰
+### Hello there.
 
-I'm a final year undergraduate student at the University of Michigan doing research in 💬 natural language processing 💬!
-- 🔭 I’m currently working on projects related to 🧑‍🤝‍🧑 computational sociolinguistics 🧑‍🤝‍🧑 and 🤖 situated dialogue 🤖!
-- 😄 Pronouns: he/him/his
+I am an incoming PhD student in the Department of Computer Science at Columbia University, where I'll be part of the Natural Language Processing Group. Previously, I received an undergraduate degree in Computer Science from the University of Michigan. Check out my [Personal Website!](https://skywang.me "Personal Website")
+
+
 
 <!--
 **skywang329/skywang329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
