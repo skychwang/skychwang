@@ -1,6 +1,6 @@
 ### Hello there.
 
-I am an incoming PhD student in the Department of Computer Science at Columbia University, where I'll be part of the Natural Language Processing Group. Previously, I received an undergraduate degree in Computer Science from the University of Michigan. Check out my [Personal Website!](https://skywang.me "Personal Website")
+I am a PhD student in the Department of Computer Science at Columbia University, where I'm part of the Natural Language Processing Group. Previously, I received an undergraduate degree in Computer Science from the University of Michigan. Check out my [Personal Website!](https://skywang.me "Personal Website")
 
 
 
