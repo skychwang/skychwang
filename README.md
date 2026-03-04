@@ -1,6 +1,6 @@
-### Hello there.
+### Hi!
 
-I am a PhD student in the Department of Computer Science at Columbia University, where I'm part of the Natural Language Processing Group. Previously, I received an undergraduate degree in Computer Science from the University of Michigan. You'll probably gleam more about me on my [academic website](https://skywang.me "Personal Website"); this github landing page doesn't get updated that often :)
+I am a research scientist at Abridge, where I work on post-training and alignment of large language models. Previously, I received my Ph.D. in Computer Science from Columbia University. For more information, see this [website](https://skywang.me "Personal Website"); this Github landing page doesn't get updated that often.
 
 
 
